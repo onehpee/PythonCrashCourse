@@ -1,0 +1,3 @@
+Varibles are often described as boxes you can store valuesin. This idea can be helpful the first few times you use a 
+varibles, but it isn's an accurate way to describe how variblesare represented internally in Python. It's much better to think of varibles
+as labless that you can assign to values. You can also say that a varibles references a certain value
