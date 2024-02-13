@@ -15,4 +15,7 @@ print(quote)
 famous_name = "Albert Einstein"
 quote2 = f"{famous_name} once said, 'A person who never made a mistake never tried anything neww'"
 print(quote2)
-
+whitespace = "' Steve\t\nYoung '"
+print(whitespace)
+whitespace = whitespace.rstrip()
+print(whitespace)
