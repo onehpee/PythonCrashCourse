@@ -10,7 +10,7 @@ print(full_name.title())
 print(full_name.lower())
 print(full_name.upper())
 
-quote = "Albert Einstein once said, 'A person who never made a mistake never tried anything neww'"
+quote = "Albert Einstein once said, 'A person who never made a mistake never tried anything newww'"
 print(quote)
 famous_name = "Albert Einstein"
 quote2 = f"{famous_name} once said, 'A person who never made a mistake never tried anything neww'"
