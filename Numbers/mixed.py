@@ -1,3 +1,4 @@
+import this
 # To make long numbers more readable you can use underscores to group them together
 universe_age = 14_000_000_000
 
