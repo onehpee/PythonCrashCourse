@@ -14,3 +14,9 @@ seven = 10 ** 6
 print(fifth)
 print(sixth)
 print(seven)
+
+eigth = 2 + 3*4
+ninth = (2 + 3) * 4
+
+print(eigth)
+print(ninth)
