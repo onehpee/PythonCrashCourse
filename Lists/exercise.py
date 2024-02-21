@@ -1,7 +1,7 @@
 # Names
 # Make a list of names
 # Print individual elements of the list
-names = ['Boye', 'Uyi', 'Oseratinn', 'Ifee']
+names = ['Boye', 'Uyii', 'Oseratinn', 'Ifee']
 print(names[0])
 print(names[1])
 print(names[2])
