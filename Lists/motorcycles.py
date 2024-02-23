@@ -9,3 +9,11 @@ print(motorcycles)
 # New elements are added to the end of the list
 motorcycles.append('ducati')
 print(motorcycles)
+
+fruit = []
+
+fruit.append('apple')
+fruit.append('grape')
+fruit.append('coconut')
+
+print(fruit)
