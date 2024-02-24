@@ -26,10 +26,21 @@ colors.insert(0, 'yellow')
 print(colors)
 
 # Removing Elements from a list
-# You can remove an item according to its position in the list or according
+# You can remove any item according to its position in the list or according
 
 insects = ['spiders', 'flies', 'ladybugs']
 print(insects)
 
 del insects[0]
 print(insects)
+
+# Sometimes you''ll want to use the value of an item after you remove it from a list
+# The pop() removes that last itme in a list
+# Top of a stack corresponds to the end of a list
+
+insects = ['spiders', 'flies', 'ladybugs']
+print(insects)
+
+popped_insects = insects.pop()
+print(insects)
+print(popped_insects)
