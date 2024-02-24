@@ -57,3 +57,16 @@ insects = ['spiders', 'flies', 'ladybugs']
 
 first_insect = insects.pop(0)
 print(f"The first insect I saw was a {first_insect.title()}.")
+
+
+# Sometimes you won't know the position of the value you want to remove frome a list
+# If you only know the value of the item you want to remove, you can use remove() method
+
+insects = ['spiders', 'flies', 'ladybugs']
+print(insects)
+
+insects.remove('ladybugs')
+print(insects)
+
+# Working with the value removed from the list
+insects = ['spiders', 'flies', 'ladybugs']
