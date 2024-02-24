@@ -70,3 +70,9 @@ print(insects)
 
 # Working with the value removed from the list
 insects = ['spiders', 'flies', 'ladybugs']
+print(insects)
+
+too_ugly = 'spiders'
+insects.remove(too_ugly)
+print(insects)
+print(f"\nA {too_ugly.title()} is too ugly for me")
