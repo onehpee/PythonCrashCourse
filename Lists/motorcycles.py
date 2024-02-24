@@ -44,3 +44,16 @@ print(insects)
 popped_insects = insects.pop()
 print(insects)
 print(popped_insects)
+
+insects = ['spiders', 'flies', 'ladybugs']
+last_insect = insects.pop()
+print(f"The last insect i saw was a {last_insect.title()}.")
+
+
+# Popping Elements from any position
+# You can do that putting the index of the element in the parentheses
+
+insects = ['spiders', 'flies', 'ladybugs']
+
+first_insect = insects.pop(0)
+print(f"The first insect I saw was a {first_insect.title()}.")
