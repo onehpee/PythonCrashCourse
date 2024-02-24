@@ -24,3 +24,12 @@ print(fruit)
 colors = ['black', 'brown', 'white']
 colors.insert(0, 'yellow')
 print(colors)
+
+# Removing Elements from a list
+# You can remove an item according to its position in the list or according
+
+insects = ['spiders', 'flies', 'ladybugs']
+print(insects)
+
+del insects[0]
+print(insects)
