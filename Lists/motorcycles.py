@@ -69,7 +69,7 @@ insects.remove('ladybugs')
 print(insects)
 
 # Working with the value removed from the list
-insects = ['spiders', 'flies', 'ladybugs']
+insects = ['spiders', 'flies', 'ladybugss']
 print(insects)
 
 too_ugly = 'spiders'
