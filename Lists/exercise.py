@@ -33,17 +33,17 @@ print(statement_4)
 
 guess_list = ['beyonce', 'bruce lee', 'patrice oneal']
 
-print(f"{guess_list[0].title()}, you have official been invited to dinner!")
-print(f"{guess_list[1].title()}, you have official been invited to dinner!")
-print(f"{guess_list[2].title()}, you have official been invited to dinner!")
+print(f"{guess_list[0].title()}, you have officially been invited to dinner!")
+print(f"{guess_list[1].title()}, you have officially been invited to dinner!")
+print(f"{guess_list[2].title()}, you have officially been invited to dinner!")
 
 no_show = guess_list.pop(2)
 print(f"{no_show}, unfortunately can not make it to the dinner")
 
 guess_list.append('dave chappelle')
-print(f"{guess_list[0].title()}, you have official been invited to dinner!")
-print(f"{guess_list[1].title()}, you have official been invited to dinner!")
-print(f"{guess_list[2].title()}, you have official been invited to dinner!")
+print(f"{guess_list[0].title()}, you have officially been invited to dinner!")
+print(f"{guess_list[1].title()}, you have officially been invited to dinner!")
+print(f"{guess_list[2].title()}, you have officially been invited to dinner!")
 
 guess_list.insert(0, 'rihanna')
 guess_list.insert(2, 'zendaya')
@@ -51,9 +51,9 @@ guess_list.append('tyla')
 
 print('With great joy, we would like to annouce a bigger table has been found!')
 
-print(f"{guess_list[0].title()}, you have official been invited to dinner!")
-print(f"{guess_list[1].title()}, you have official been invited to dinner!")
-print(f"{guess_list[2].title()}, you have official been invited to dinner!")
-print(f"{guess_list[3].title()}, you have official been invited to dinner!")
-print(f"{guess_list[4].title()}, you have official been invited to dinner!")
-print(f"{guess_list[5].title()}, you have official been invited to dinner!")
+print(f"{guess_list[0].title()}, you have officially been invited to dinner!")
+print(f"{guess_list[1].title()}, you have officially been invited to dinner!")
+print(f"{guess_list[2].title()}, you have officially been invited to dinner!")
+print(f"{guess_list[3].title()}, you have officially been invited to dinner!")
+print(f"{guess_list[4].title()}, you have officially been invited to dinner!")
+print(f"{guess_list[5].title()}, you have officially been invited to dinner!")
