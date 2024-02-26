@@ -51,3 +51,9 @@ guess_list.append('tyla')
 
 print('With great joy, we would like to annouce a bigger table has been found!')
 
+print(f"{guess_list[0].title()}, you have official been invited to dinner!")
+print(f"{guess_list[1].title()}, you have official been invited to dinner!")
+print(f"{guess_list[2].title()}, you have official been invited to dinner!")
+print(f"{guess_list[3].title()}, you have official been invited to dinner!")
+print(f"{guess_list[4].title()}, you have official been invited to dinner!")
+print(f"{guess_list[5].title()}, you have official been invited to dinner!")
