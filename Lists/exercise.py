@@ -37,3 +37,11 @@ print(f"{guess_list[0].title()}, you have official been invited to dinner!")
 print(f"{guess_list[1].title()}, you have official been invited to dinner!")
 print(f"{guess_list[2].title()}, you have official been invited to dinner!")
 
+no_show = guess_list.pop(2)
+print(f"{no_show}, unfortunately can not make it to the dinner")
+
+guess_list.append('dave chappelle')
+print(f"{guess_list[0].title()}, you have official been invited to dinner!")
+print(f"{guess_list[1].title()}, you have official been invited to dinner!")
+print(f"{guess_list[2].title()}, you have official been invited to dinner!")
+
