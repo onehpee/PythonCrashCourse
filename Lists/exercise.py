@@ -57,3 +57,8 @@ print(f"{guess_list[2].title()}, you have officially been invited to dinner!")
 print(f"{guess_list[3].title()}, you have officially been invited to dinner!")
 print(f"{guess_list[4].title()}, you have officially been invited to dinner!")
 print(f"{guess_list[5].title()}, you have officially been invited to dinner!")
+
+print('We are sad to annouce, that the dinner table will not arrive in time')
+
+no_space = guess_list.pop()
+print(f"{no_show}, unfortunately we no longer have space for you at the table")
