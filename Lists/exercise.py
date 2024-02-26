@@ -28,3 +28,9 @@ print(statement_1)
 print(statement_2)
 print(statement_3)
 print(statement_4)
+
+# Remove() Exercise 3-4 - 3-6
+
+guess_list = ['beyonce', 'bruce lee', 'patrice oneal']
+
+
