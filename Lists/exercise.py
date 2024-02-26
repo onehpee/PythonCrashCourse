@@ -45,3 +45,8 @@ print(f"{guess_list[0].title()}, you have official been invited to dinner!")
 print(f"{guess_list[1].title()}, you have official been invited to dinner!")
 print(f"{guess_list[2].title()}, you have official been invited to dinner!")
 
+guess_list.insert(0, 'rihanna')
+guess_list.insert(2, 'zendaya')
+guess_list.append('tyla')
+
+
