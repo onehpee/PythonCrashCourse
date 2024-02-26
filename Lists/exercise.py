@@ -69,4 +69,11 @@ print(f"{no_show}, unfortunately we no longer have space for you at the table")
 no_space = guess_list.pop()
 print(f"{no_show}, unfortunately we no longer have space for you at the table")
 
+print(f"{guess_list[0].title()}, you are still invited to dinner!")
+print(f"{guess_list[1].title()}, you are still invited to dinner!")
+
+del guess_list[0]
+del guess_list[1]
+
+print(guess_list)
 
