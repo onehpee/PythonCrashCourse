@@ -33,4 +33,7 @@ print(statement_4)
 
 guess_list = ['beyonce', 'bruce lee', 'patrice oneal']
 
+print(f"{guess_list[0].title()}, you have official been invited to dinner!")
+print(f"{guess_list[1].title()}, you have official been invited to dinner!")
+print(f"{guess_list[2].title()}, you have official been invited to dinner!")
 
