@@ -49,4 +49,5 @@ guess_list.insert(0, 'rihanna')
 guess_list.insert(2, 'zendaya')
 guess_list.append('tyla')
 
+print('With great joy, we would like to annouce a bigger table has been found!')
 
