@@ -13,3 +13,17 @@ print(cars)
 
 # You can also sort this list in reverse alphabetical order by passing the arguement reverse=True
 # to the sort() method. The following example sorts the list of cars in reverse alphabetical order
+
+# Sorting a List Temporarily with the sorted() Function
+# To maintain the orginal ordernof a list but present it in a sorted order, you can use the sorted()
+# function. The sorted() funtion lets you display your list in a particular order but doesn't affect
+# the actual order of the list.
+
+print("Here is the orginal list: ")
+print(cars)
+
+print("\nHere is the sorted list: ")
+print(sorted(cars))
+
+print("\nHere is the orginal list again: ")
+print(cars)
