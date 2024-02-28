@@ -39,3 +39,8 @@ print(cars)
 # Reverse() doesn't sort backward alphabetically; it simply reverse the order of the list
 # The reverse() method changes the order of a list permanently, you can revert it back by using revers() the same list
 
+# Finding the Length of a list
+# You can quickly find the length of a list by using the len() function.
+
+cars = ['bmw', 'audi', 'toyota', 'subaru']
+print(len(cars))
