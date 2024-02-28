@@ -31,3 +31,7 @@ print(cars)
 
 # Printing a List in Reverse Order
 # To reverse the original order of a lisst, you can use the reverse() method.
+print(cars)
+
+cars.reverse()
+print(cars)
