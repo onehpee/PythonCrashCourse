@@ -44,3 +44,5 @@ print(cars)
 
 cars = ['bmw', 'audi', 'toyota', 'subaru']
 print(len(cars))
+
+# Seeing the world
