@@ -35,3 +35,7 @@ print(cars)
 
 cars.reverse()
 print(cars)
+
+# Reverse() doesn't sort backward alphabetically; it simply reverse the order of the list
+# The reverse() method changes the order of a list permanently, you can revert it back by using revers() the same list
+
