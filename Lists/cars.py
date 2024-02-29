@@ -69,3 +69,5 @@ print(vacation_spots)
 # Dinner Guests
 guess_list = ['beyonce', 'bruce lee', 'patrice oneal']
 print(f'There are {len(guess_list)}, number of people invited to dinner')
+
+# Every Function
