@@ -46,3 +46,6 @@ cars = ['bmw', 'audi', 'toyota', 'subaru']
 print(len(cars))
 
 # Seeing the world
+
+vacation_spots = ['japan', 'brazil', 'new york', 'dominican republic', 'miami']
+print(vacation_spots)
