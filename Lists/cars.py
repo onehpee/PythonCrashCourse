@@ -49,3 +49,5 @@ print(len(cars))
 
 vacation_spots = ['japan', 'brazil', 'new york', 'dominican republic', 'miami']
 print(vacation_spots)
+
+print(sorted(vacation_spots))
