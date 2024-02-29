@@ -53,3 +53,9 @@ print(vacation_spots)
 print(sorted(vacation_spots))
 
 print(vacation_spots)
+
+vacation_spots.reverse()
+print(vacation_spots)
+
+vacation_spots.reverse()
+print(vacation_spots)
