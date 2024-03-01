@@ -19,3 +19,5 @@ Organizing a List
 Often, your lists will be created in an unpredicatble order, because you can't always control the order in which
 your users provide their data. Python provides a number of different ways to organize your lists, depending on the
 program
+
+Looping Through an Entire List
