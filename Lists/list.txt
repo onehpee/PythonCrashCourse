@@ -21,3 +21,8 @@ your users provide their data. Python provides a number of different ways to org
 program
 
 Looping Through an Entire List
+
+When you're using loops for the first time, keep in mind that the set if steps is repeated once for each 
+item in the list, no matter how many items are in the list. If you have a million items in your list,
+Python repeats these steps a million times--and usually very quickly.
+
