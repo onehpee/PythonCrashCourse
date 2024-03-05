@@ -26,3 +26,6 @@ When you're using loops for the first time, keep in mind that the set if steps i
 item in the list, no matter how many items are in the list. If you have a million items in your list,
 Python repeats these steps a million times--and usually very quickly.
 
+Also keep in mind when writing your own for loops that you can choose any name you want for the 
+temporary variable that will be associated with each value in the list. However, it's helpful to 
+choose a meaningful name that represents a single item from the lists.
