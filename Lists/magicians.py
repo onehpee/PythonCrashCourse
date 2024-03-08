@@ -19,3 +19,5 @@ print(f"I like {pizza_types[2]} pizza")
 print("I really love pizza")
 
 birds = ['harpy eagle', 'owl', 'crow']
+for bird in birds:
+    print(f"A {bird.title()} would make a great pet")
