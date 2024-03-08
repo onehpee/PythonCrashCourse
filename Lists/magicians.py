@@ -21,3 +21,6 @@ print("I really love pizza")
 birds = ['harpy eagle', 'owl', 'crow']
 for bird in birds:
     print(f"A {bird.title()} would make a great pet")
+    
+print("All these animals have beaks")
+print("ANy of these animals would make a great pet")
