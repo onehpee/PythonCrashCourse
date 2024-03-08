@@ -12,8 +12,10 @@ pizza_types = ['pepporoni', 'sausage & mushroom', 'philly steak']
 for pizza in pizza_types:
     print(f"I like {pizza.title()} pizza.")
     
-print(f"{pizza[0]}")
-print(f"{pizza[1]}")
-print(f"{pizza[2]}")
+print(f"I like {pizza_types[0]} pizza")
+print(f"I like {pizza_types[1]} pizza")
+print(f"I like {pizza_types[2]} pizza")
 
 print("I really love pizza")
+
+birds = ['harpy eagle', 'owl', 'crow']
