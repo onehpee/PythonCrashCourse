@@ -9,4 +9,5 @@ for magician in magicians:
     
 
 pizza_types = ['pepporoni', 'sausage & mushroom', 'philly steak']
-
+for pizza in pizza_types:
+    print(f"I like {pizza.title()} pizza.")
