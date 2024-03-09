@@ -33,3 +33,8 @@ choose a meaningful name that represents a single item from the lists.
 
 Tuples, on the other hand, are written in ink. They’re similar to lists in that they can hold multiple items,
  but unlike lists, tuples are immutable, meaning you can’t modify them after you’ve created them.
+
+
+  Now what is that thing in Python? What is a tuple? A tuple is a finite, ordered, immutable sequence of values.
+  That’s a mouthful. It gets worse. Python borrows the name and the notation from mathematics, which means per definition, 
+  each element is separated by a comma inside a tuple, and all the elements are surrounded by a single pair of parentheses.
