@@ -38,3 +38,6 @@ Tuples, on the other hand, are written in ink. They’re similar to lists in tha
   Now what is that thing in Python? What is a tuple? A tuple is a finite, ordered, immutable sequence of values.
   That’s a mouthful. It gets worse. Python borrows the name and the notation from mathematics, which means per definition, 
   each element is separated by a comma inside a tuple, and all the elements are surrounded by a single pair of parentheses.
+
+
+Python's range() function makes it easy to generate a series of numbers.
