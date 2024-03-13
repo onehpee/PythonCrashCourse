@@ -18,3 +18,8 @@ print(sum(digits))
 
 squares_3 = [value**2 for value in range(1, 11)]
 print(squares_3)
+
+# Exercise - Try it yourself
+
+for value in range(1, 20):
+    print(value)
