@@ -23,3 +23,6 @@ print(squares_3)
 
 for value in range(1, 20):
     print(value)
+    
+one_million = [value for value in range(1, 1000000)]
+print(one_million)
