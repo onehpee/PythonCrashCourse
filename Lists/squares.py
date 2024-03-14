@@ -40,3 +40,8 @@ print(odd_numbers)
 # Threes
 threes = [value * 3 for value in range(3, 30)]
 print(threes)
+
+# Cubes
+cubes = [value ** 3 for value in range(1, 10)]
+print(cubes)
+
