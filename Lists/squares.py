@@ -32,5 +32,11 @@ print(min(one_million))
 print(max(one_million))
 print(sum(one_million))
 
+# Odd Numbers
 odd_numbers = [value for value in range(1, 20, 2)]
 print(odd_numbers)
+
+
+# Threes
+threes = [value * 3 for value in range(3, 30)]
+print(threes)
