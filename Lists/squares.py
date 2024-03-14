@@ -24,5 +24,9 @@ print(squares_3)
 for value in range(1, 20):
     print(value)
     
-one_million = [value for value in range(1, 1000000)]
+one_million = [value for value in range(1, 1000001)]
 print(one_million)
+
+print(min(one_million))
+print(max(one_million))
+print(sum(one_million))
