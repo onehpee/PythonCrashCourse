@@ -45,3 +45,6 @@ print(threes)
 cubes = [value ** 3 for value in range(1, 10)]
 print(cubes)
 
+# Cube Comprehension
+cube_comprehension = [value ** 3 for value in range(1, 10)]
+print(cube_comprehension)
