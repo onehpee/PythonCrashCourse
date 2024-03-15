@@ -32,7 +32,7 @@ print(min(one_million))
 print(max(one_million))
 print(sum(one_million))
 
-# Odd Numbers
+# Odd Numberss
 odd_numbers = [value for value in range(1, 20, 2)]
 print(odd_numbers)
 
