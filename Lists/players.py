@@ -11,3 +11,6 @@ print(players[:4])
 
 # Python returns all items from the third item through the end of the list
 print(players[2:])
+
+# This prints the names of the last three players and would continue to work as the list of players change  in size
+print(players[-3:])
