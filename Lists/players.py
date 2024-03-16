@@ -8,3 +8,6 @@ print(players[1:4])
 
 # if you omit the first index in a slice, Python automatically starts your slice at the beginning of the list
 print(players[:4])
+
+# Python returns all items from the third item through the end of the list
+print(players[2:])
