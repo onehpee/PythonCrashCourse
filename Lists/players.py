@@ -24,5 +24,3 @@ for player in players[:3]:
     print(player.title())
     
 
-# Copying a List
-
