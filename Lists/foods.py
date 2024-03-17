@@ -16,4 +16,7 @@ friend_foods.append('ice cream')
 
 # Try it yourself
 print('The first three items in the list are: ')
-print(my_foods[0:3])
+print(my_foods[0:2])
+
+print('The three items from the middle of the list are: ')
+print(my_foods[1:3])
