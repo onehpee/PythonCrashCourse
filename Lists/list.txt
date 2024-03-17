@@ -46,3 +46,8 @@ To make a slice, you specify the index of hte first and last elements you want t
 As with the range() function. Python stops one ite before the second index tou specify.
 To output the first three elements in a list you would request indices 0 through 3, which
 Would return elements 0, 1, and 2.
+
+
+To copy a list, you can make a slice that includes the entire orginal listby omitting the first index
+and the second index ([:]). This tells python to make a slice that starts at the first item and ends with
+the last item, producing a copy of the entire list
