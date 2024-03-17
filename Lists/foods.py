@@ -13,3 +13,7 @@ print(friend_foods)
 
 my_foods.append('cannoli')
 friend_foods.append('ice cream')
+
+# Try it yourself
+print('The first three items in the list are: ')
+print(my_foods[0:3])
