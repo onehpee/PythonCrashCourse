@@ -35,3 +35,10 @@ for food in my_foods:
     
 for snacks in friend_pizzas:
     print(f"My friend's favorite pizzas are {snacks}")
+    
+    
+for pizza in my_foods:
+    print(food)
+    
+for foods in friend_foods:
+    print(foods)
