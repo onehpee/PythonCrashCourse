@@ -24,3 +24,5 @@ print(my_foods[1:3])
 print('The last three items of the list are: ')
 print(my_foods[-3:])
 
+friend_pizzas = ['pizza', 'falafel', 'carrot cake']
+friend_foods.append('mushroom')
