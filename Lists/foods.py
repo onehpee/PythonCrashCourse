@@ -20,3 +20,7 @@ print(my_foods[0:2])
 
 print('The three items from the middle of the list are: ')
 print(my_foods[1:3])
+
+print('The last three items of the list are: ')
+print(my_foods[-3:])
+
