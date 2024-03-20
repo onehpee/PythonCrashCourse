@@ -29,3 +29,9 @@ friend_pizzas = my_foods[:]
 my_foods.append('mushroom')
 friend_pizzas.append('fish')
 
+
+for food in my_foods:
+    print(f"My favorite pizzas are {food}")
+    
+for snacks in friend_pizzas:
+    print(f"My friend's favorite pizzas are {snacks}")
