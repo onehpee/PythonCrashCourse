@@ -51,3 +51,9 @@ Would return elements 0, 1, and 2.
 To copy a list, you can make a slice that includes the entire orginal listby omitting the first index
 and the second index ([:]). This tells python to make a slice that starts at the first item and ends with
 the last item, producing a copy of the entire list
+
+Lists work well for storing collections of items that can change throughout the life of a program. 
+However, sometimes you'll want to create a list of items that cannot change.
+
+Tuples allow you to do just that. Python refers to values that cannot change as immutable, and
+an immutable list is called a tuple.
