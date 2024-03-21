@@ -28,3 +28,9 @@ dimensions = (400, 100)
 print("\nModified dimensions: ")
 for dimension in dimensions:
     print(dimension)
+    
+    
+# Try it yourself
+# 4-13. Buffet
+
+buffet_food = ("lo mein", "orange chicken", "egg rolls", "beef n broccoli", "spaghetti")
