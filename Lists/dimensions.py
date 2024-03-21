@@ -34,3 +34,9 @@ for dimension in dimensions:
 # 4-13. Buffet
 
 buffet_food = ("lo mein", "orange chicken", "egg rolls", "beef n broccoli", "spaghetti")
+for food in buffet_food:
+    print(food)
+    
+buffet_food = ("lo mein", "orange chicken", "dimsum", "beef n broccoli", "spicy shrimp")
+for food in buffet_food:
+    print(food)
