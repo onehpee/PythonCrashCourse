@@ -8,3 +8,7 @@ print(dimensions[1])
 
 # A tuple with one element is typically used but it goes like this
 # my_t = (3,)
+
+dimensions = (200, 50)
+for dimension in dimensions:
+    print(dimension)
