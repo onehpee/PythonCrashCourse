@@ -31,7 +31,7 @@ for dimension in dimensions:
     
     
 # Try it yourself
-# 4-13. Buffett
+# 4-13. Buffettt
 
 buffet_food = ("lo mein", "orange chicken", "egg rolls", "beef n broccoli", "spaghetti")
 for food in buffet_food:
