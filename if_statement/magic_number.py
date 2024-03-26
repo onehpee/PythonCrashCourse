@@ -24,3 +24,10 @@ print(car == 'porche')
 print("\nIs car == 'honda'? I predict False.")
 print(car == 'honda')
 
+car = 'mustang'
+print("Is car == 'mustang'? I predict True.")
+print(car == 'mustang')
+
+print("\nIs car == 'chevy'? I predict False.")
+print(car == 'chevy')
+
