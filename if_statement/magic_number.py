@@ -31,3 +31,9 @@ print(car == 'mustang')
 print("\nIs car == 'chevy'? I predict False.")
 print(car == 'chevy')
 
+car = 'ferari'
+print("Is car == 'ferari'? I predict True.")
+print(car == 'ferari')
+
+print("\nIs car == 'BMW'? I predict False.")
+print(car == 'BMW')
