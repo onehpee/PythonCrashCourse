@@ -35,3 +35,13 @@ if 3 < 4 and 4 < 5:
     
 if 3 < 4 or 4 < 3:
     print("Some things are true")
+    
+candy = ['reese', 'twix', 'snickers']
+bars = 'kit kat'
+peanutB = 'reese'
+
+if peanutB in candy:
+    print(f"{peanutB.title()}, is has has peanut butter in it")
+
+if bars not in candy:
+    print(f"{bars.title()}, this has multiple bars")
