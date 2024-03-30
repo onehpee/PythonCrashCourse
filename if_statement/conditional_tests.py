@@ -25,5 +25,9 @@ if 1 < 2:
     print("One is less than two.")
     
 if 2 >= 2:
-    print("Two is equal to two.")
+    print("Two is greater than or equal to two.")
+    
+if 2 <= 2:
+    print("Two is less than or equal to two.")
+    
     
