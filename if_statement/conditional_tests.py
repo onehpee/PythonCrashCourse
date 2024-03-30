@@ -30,4 +30,8 @@ if 2 >= 2:
 if 2 <= 2:
     print("Two is less than or equal to two.")
     
+if 3 < 4 and 4 < 5:
+    print("All things are true")
     
+if 3 < 4 or 4 < 3:
+    print("Some things are true")
