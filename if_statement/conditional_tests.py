@@ -18,3 +18,12 @@ if case == 'BANG':
 if case.lower() == 'BANG':
     print("False! Dud!")
     
+if 1 > 2:
+    print("One not greater than two.")
+    
+if 1 < 2:
+    print("One is less than two.")
+    
+if 2 >= 2:
+    print("Two is equal to two.")
+    
