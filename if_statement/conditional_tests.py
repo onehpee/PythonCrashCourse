@@ -28,7 +28,7 @@ if 2 >= 2:
     print("Two is greater than or equal to two.")
     
 if 2 <= 2:
-    print("Two is less than or equal to two.")
+    print("Two is less than or equal to twoo.")
     
 if 3 < 4 and 4 < 5:
     print("All things are true")
