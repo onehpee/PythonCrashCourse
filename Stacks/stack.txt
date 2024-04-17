@@ -13,3 +13,7 @@ Binary search is a classic algorithm in computer science. It often comes up in p
  Implementing binary search turns out to be a challenging task, even when you understand the concept. 
  Unless you’re curious or have a specific assignment, you should always leverage existing libraries to do a binary search in 
  Python or any other language.
+
+ How might you look for something in your backpack? You might just dig your hand into it, pick an item at random, and see if it’s the one you wanted. 
+ If you’re out of luck, then you put the item back, rinse, and repeat. This example is a good way to understand random search, which is one of the least efficient search algorithms. 
+ The inefficiency of this approach stems from the fact that you’re running the risk of picking the same wrong thing multiple times.
